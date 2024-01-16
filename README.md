@@ -1,0 +1,2 @@
+# NeuralNetworkXOR
+Матчасть DL
